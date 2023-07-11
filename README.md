@@ -3,6 +3,9 @@
 I am currently a student of Computer Science at University of Porto.
 Looking for interesting projects to contribute to !
 
+I have moved all my personal projects to [codeberg.org](https://codeberg.org/motorto).
+I am only keeping this account to contribute to Github based projects.
+
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
