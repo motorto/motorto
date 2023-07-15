@@ -5,15 +5,3 @@ Looking for interesting projects to contribute to !
 
 I have moved all my personal projects to [codeberg.org](https://codeberg.org/motorto).
 I am only keeping this account to contribute to Github based projects.
-
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motorto&layout=compact&hide=css,html,java)
-
-![motorto's github stats](https://github-readme-stats.vercel.app/api?username=motorto&count_private=true&show_icons=true&hide_rank=true&theme=graywhite)
-
-</details>
-
-
